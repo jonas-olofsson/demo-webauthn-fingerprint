@@ -2,6 +2,7 @@
  base    = "vue-app"
  command = "yarn build"
  publish = "vue-app/dist"
+ 
  [build.environment]
    YARN_VERSION = "1.17.3"
    NODE_VERSION = "12.9.0"
