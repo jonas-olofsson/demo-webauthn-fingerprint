@@ -1,7 +1,7 @@
 [build]
  base    = "vue-app"
  command = "yarn build"
- publish = "public"
+ publish = "dist"
  YARN_VERSION = "1.9.4"
  NODE_VERSION = "12.4.0"
  
